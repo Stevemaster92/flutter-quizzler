@@ -4,7 +4,6 @@ This project is based on the [stub project](https://github.com/londonappbrewery/
 
 ## What you can do
 
-This quiz app tests your general knowledge. Enjoy it and try to reach a high score!
+This quiz app tests your general knowledge. Enjoy it and try to achieve a high score!
 
-<img src="https://github.com/Stevemaster92/flutter-quizzler/blob/master/images/quizzler-1.png" alt="quizzler-1" height="400"/>
-<img src="https://github.com/Stevemaster92/flutter-quizzler/blob/master/images/quizzler-1.png" alt="quizzler-2" height="400"/>
+<img src="https://github.com/Stevemaster92/flutter-quizzler/blob/master/images/quizzler-1.png" alt="quizzler-1" height="734"/> <img src="https://github.com/Stevemaster92/flutter-quizzler/blob/master/images/quizzler-2.png" alt="quizzler-2" height="734"/>
